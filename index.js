@@ -1,4 +1,11 @@
 
-import{Footer} from "./Component/Footer.js"
+import{Footer} from "./Component/Footer/Footer.js"
 let root = document.getElementById("root")
-root.append(Footer())
+import{Banner} from "./Component/Banner.js"
+function App(){
+
+    root.appendChild(Banner())
+   root.appendChild(Footer())}
+App()
+
+

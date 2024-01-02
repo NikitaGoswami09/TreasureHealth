@@ -1,5 +1,5 @@
 
-export default function Banner() {
+function Banner() {
   let BannerContainer = document.createElement("div");
   BannerContainer.classList.add('bannerContainer')
   BannerContainer.innerHTML = `
@@ -7,5 +7,4 @@ export default function Banner() {
     `;
   return BannerContainer;
 }
-
-export { Banner };
+export{Banner}
