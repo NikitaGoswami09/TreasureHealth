@@ -1,11 +1,20 @@
-
-import{Footer} from "./Component/Footer/Footer.js"
-let root = document.getElementById("root")
-import{Banner} from "./Component/Banner.js"
-function App(){
-
-    root.appendChild(Banner())
-   root.appendChild(Footer())}
-App()
-
-
+import { Footer } from "./Component/Footer/Footer.js";
+let root = document.getElementById("root");
+import { Banner } from "./Component/Banner.js";
+import { Slider } from "./Component/slider.js";
+function App() {
+  let sliderData = {
+    cardArr: [
+      { cardTitle: "card title1" },
+      { cardTitle: "card title2" },
+      { cardTitle: "card title3" },
+      { cardTitle: "card title3" },
+    ],
+  };
+  root.appendChild(Banner());
+  root.appendChild(Slider(sliderData, false));
+  root.appendChild(Slider(sliderData, false));
+  root.appendChild(Slider(sliderData, true));
+  root.appendChild(Footer());
+}
+App();
