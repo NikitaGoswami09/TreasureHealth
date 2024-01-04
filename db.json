@@ -1,0 +1,9 @@
+{
+  "users": [
+    {"name": "Amit", "age":25},
+    {"name": "Sumit", "age":23},
+    {"name": "Akash", "age":21}
+],
+  "products": ["Amit", "Sumit"],
+  "services": ["Amit", "Sumit"]
+}
