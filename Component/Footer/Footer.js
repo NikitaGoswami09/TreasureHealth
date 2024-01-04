@@ -1,5 +1,5 @@
 function Footer(){
-    let footer= document.createElement("div")
+    let footer= document.createElement("footer")
     footer.innerHTML=` <a href="#Content">Content</a>
     <a href="#about">About</a>
     <a href="#More">More</a>

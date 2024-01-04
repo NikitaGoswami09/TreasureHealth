@@ -1,5 +1,22 @@
 function Navbar() {
-  let NavbarContainer = document.createElement("div");
+
+  let NavbarContainer = document.createElement("nav");
+  NavbarContainer.innerHTML = `
+  
+  <div>
+  <a href="#logo">Logo</a>
+  </div>
+  <div>
+  <a href="#Home">Home</a>
+  <a href="#Products&services">Products & Services</a>
+  <a href="#Events">Events</a>
+  <a href="#ContactUs">ContactUs</a>
+  <a href="#Blogs">Blogs</a>
+  </div>
+  <div>
+  User
+  </div>
+`
   NavbarContainer.style.border = "1px solid black";
   return NavbarContainer;
 }
