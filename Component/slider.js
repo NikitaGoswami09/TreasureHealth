@@ -1,31 +1,44 @@
-function Slider(slider, tall) {
+function Slider() {
+
+  // Getting the data
+  async function getData() {
+    let res = await fetch("http://localhost:3000/yoga");
+    let yogaPics = await res.json();
+    renderSlider(yogaPics); // function to show the data
+  }
+  getData();
+
   let sliderContainer = document.createElement("div");
   sliderContainer.classList.add("sliderContainer");
-  sliderContainer.innerHTML = `
-    <p>Slider Title</p>
-    <div class='cardContainer'>
-    ${slider.cardArr
+
+  // Render the data on to the DOM
+  function renderSlider(yogaPics) {
+    // console.log("from the function", yogaPics);
+    sliderContainer.innerHTML = `
+  <p>Slider Title</p>
+  <div class='cardContainer'>
+  
+    ${yogaPics
       .map((card) => {
-        return Card(card.cardTitle, false).outerHTML;
+        console.log(card.imgSrc);
+        return Card(card.imgSrc, card.title).outerHTML;
       })
       .join("")}
-      </div>
-      `;
+
+      </div>`;
+  }
+
   return sliderContainer;
 }
 
-function Card(title, tall) {
+function Card(imgSrc, title) {
   let CardContainer = document.createElement("div");
   CardContainer.classList.add("card");
   CardContainer.innerHTML = `
-      <div>
-        <div class='imgContainer' style={{height: ${
-          tall ? "200px" : "150px"
-        }, color: '#fff'}}>
-        <img src=''/>
+        <div class='imgContainer'>
+          <img src="${imgSrc}"/>
         </div>
         <p>${title}</p>
-      </div>
     `;
   return CardContainer;
 }
