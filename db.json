@@ -21,6 +21,24 @@
     "Amit",
     "Sumit"
   ],
+  "explore-by": [
+    {
+      "title": "NUTRITION",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/4311/4311368.png"
+    },
+    {
+      "title": "FITNESS",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/3048/3048367.png"
+    },
+    {
+      "title": "MADICATION",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/2681/2681803.png"
+    },
+    {
+      "title": "PRODUCTS",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/2279/2279080.png"
+    }
+  ],
   "yoga": [
     {
       "imgSrc": "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/11/21_06_2020-21_06_2020-yoga_divas_20417405_20418628.jpg",
@@ -37,6 +55,14 @@
     {
       "imgSrc": "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/11/21_06_2020-21_06_2020-yoga_divas_20417405_20418628.jpg",
       "title": "Card Title 3"
+    }
+  ],
+  "banner2": [
+    {
+      "heading": "TreasureHealth",
+      "subtitle": "Your health, our Treasure",
+      "description": "lorem",
+      "imgSrc": "https://post.healthline.com/wp-content/uploads/2021/11/HL-Editorial-Standard-Widget.png"
     }
   ],
   "meditation": [
