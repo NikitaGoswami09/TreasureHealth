@@ -13,8 +13,9 @@ function Navbar() {
   <a href="#ContactUs">ContactUs</a>
   <a href="#Blogs">Blogs</a>
   </div>
-  <div>
+  <div id="user">
   User
+  <i class="fa-solid fa-user"></i>
   </div>
 `
   NavbarContainer.style.border = "1px solid black";
