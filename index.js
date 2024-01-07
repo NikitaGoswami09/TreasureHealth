@@ -7,9 +7,8 @@ import { Navbar } from "./Component/Navbar/navbar.js";
 function App() {
   root.appendChild(Navbar());
   root.appendChild(Banner());
-  root.appendChild(Slider());
-  root.appendChild(Slider());
-  root.appendChild(Slider());
+  root.appendChild(Slider("yoga"));
+  root.appendChild(Slider("meditation"));
   root.appendChild(Footer());
 }
 App();

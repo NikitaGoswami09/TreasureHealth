@@ -1,8 +1,8 @@
-function Slider() {
+function Slider(URL) {
 
   // Getting the data
   async function getData() {
-    let res = await fetch("http://localhost:3000/yoga");
+    let res = await fetch(`http://localhost:3000/${URL}`);
     let yogaPics = await res.json();
     renderSlider(yogaPics); // function to show the data
   }
