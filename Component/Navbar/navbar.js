@@ -3,8 +3,8 @@ function Navbar() {
   let NavbarContainer = document.createElement("nav");
   NavbarContainer.innerHTML = `
   
-  <div>
-  <a href="#logo">Logo</a>
+  <div id="logo">
+  <a href="#logo">TreasureHealth</a>
   </div>
   <div>
   <a href="#Home">Home</a>

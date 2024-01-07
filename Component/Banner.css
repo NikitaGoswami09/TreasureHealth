@@ -1,6 +1,6 @@
 .bannerContainer {
   height: 85vh;
   border: 1px solid green;
-  background-color: red;
+  /* background-color: red; */
   text-align: center;
 }
