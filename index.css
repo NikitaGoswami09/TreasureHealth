@@ -2,9 +2,8 @@
 
   margin: 0;
 }
-.root {
+#root {
   border: 1px solid green;
-  width: 85%;
-  padding: 20px;
+  /* padding: 20px; */
   margin: auto;
 }

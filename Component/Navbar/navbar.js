@@ -13,7 +13,7 @@ function Navbar() {
   <a href="#ContactUs">ContactUs</a>
   <a href="#Blogs">Blogs</a>
   </div>
-  <div>
+  <div id='user'>
   User
   </div>
 `
