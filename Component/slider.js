@@ -1,5 +1,4 @@
 function Slider(URL) {
-
   // Getting the data
   async function getData() {
     let res = await fetch(`http://localhost:3000/${URL}`);
@@ -16,7 +15,7 @@ function Slider(URL) {
     // console.log("from the function", yogaPics);
     sliderContainer.innerHTML = `
   <p>Slider Title</p>
-  <div class='cardContainer'>
+  <div class='cardContainer ${URL}'>
   
     ${yogaPics
       .map((card) => {
