@@ -1,1 +1,39 @@
 medication= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNSdMz2VhtvYCQNAPs37Ep2H7oxpAwlTInddTDCVfvihzyZBfjFt1HLnK2nNuzkfaFSA&usqp=CAU
+satvik diet=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgwBYK3S4_KQ3uafK35ZH46Z1MeSKFHeHQOeNx_mhMV1CNkVMgaouNkem5jYUmBsilhaw&usqp=CAU
+
+intermittent fasting=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJRhMoRZd4QvO0sw7BhXjDVKkTkSuOm-Tj9W3iQdxWZNRODi5G2_rkAgxinASdcU0GOs&usqp=CAU
+
+nutrition=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSbmvmOYJ1L52aShIBgpMbBO440nBBYDnUTBHD5Nvp2hNVG9fc-lAomhs5J8K0PC6RpE&usqp=CAU
+
+meditation=https://media.istockphoto.com/id/1313456479/photo/man-and-soul-yoga-lotus-pose-meditation-on-nebula-galaxy-background.jpg?s=612x612&w=0&k=20&c=jJ0pVed-sHjDBtomrO7KmR4qtIfH8OaNhjmEsXvJmAI=
+
+yoga=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNTyZx3xdoTCtPxT-mXS3w6nDuAcwKuvvc84D95WqA8kYLALVR41y0HnMIaFBsHAfiNhQ&usqp=CAU
+
+exercise =https://domf5oio6qrcr.cloudfront.net/medialibrary/2293/l0908b16207233934035.jpg
+
+workout=https://t3.ftcdn.net/jpg/02/00/87/86/360_F_200878690_TcNFVjD7FqAR9gADMZrG8ygXQq86oVi7.jpg
+
+pranayama=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8lZtDn_RaLFAaHXT7QbFbv7NXc8ImTWoIw&usqp=CAU
+
+//ARTICLES Links//
+
+intermittent fasting-"https://blog.satvicmovement.org/5-benefits-of-intermittent-fasting-apart-from-weight-loss/"
+
+Yoga-"https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-benefits-of-yoga"
+
+meditation-"https://www.healthline.com/nutrition/12-benefits-of-meditation"
+
+exercise-"https://www.healthline.com/nutrition/10-benefits-of-exercise"
+
+workout-"https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm"
+
+pranayama-"https://pharmeasy.in/blog/health-fitness-benefits-of-pranayama-and-how-to-do-it/"
+
+forms of yoga-"https://www.healthifyme.com/blog/types-of-yoga/"
+
+forms of pranayama-"https://blog.satvicmovement.org/5-pranayama-breath-control-techniques-to-take-charge-of-your-life/"
+
+forms of meditation-"https://www.healthline.com/health/mental-health/types-of-meditation"
+
+forms of exercises-"https://fitness.org.au/articles/exercise-science/16-forms-of-exercise-to-benefit-your-health-and-lifestyle/6/1521"
+
