@@ -77,30 +77,24 @@
       "title": "Card Title 1"
     }
   ],
-  "dynamic-pages": [
+  "dynamicpages": [
     {
       "intermittent-fasting": {
         "heading": "5 Benefits Of Intermittent Fasting Apart From Weight Loss",
-        "heading=imgSrc": "https://blog.satvicmovement.org/wp-content/uploads/2022/05/5-Benefits-of-Itermittent-Fasting-Apart-from-Weight-Loss-7-2-1024x576.png",
-        
+        "heading-imgSrc": "https://blog.satvicmovement.org/wp-content/uploads/2022/05/5-Benefits-of-Itermittent-Fasting-Apart-from-Weight-Loss-7-2-1024x576.png",
+
         "sub-heading1": "1. Fasting Helps Every Organ In Your Body To Perform Better",
         "section1": "Okay, you were ready to believe that fasting has more benefits than losing weight. After all, it’s just your gut you’re giving a rest from digestion. So how is it going to help every organ in your body? It’s time you found about the true power of a clean and healthy gut.Did you know each part of your gut is directly connected to the functioning of a unique part of your body? So if there’s waste blocking stuck in a certain part of the colon, don’t be surprised to see problems in the organ connected to that part.",
-        "sub-heading1-imgSrc1":"https://blog.satvicmovement.org/wp-content/uploads/2022/05/colon-connection.webp",
-        
+        "sub-heading1-imgSrc1": "https://blog.satvicmovement.org/wp-content/uploads/2022/05/colon-connection.webp",
+
         "sub-heading2": "2. Helps Bring Back Healthy Hunger",
         "section2": "How do you know when you’re really hungry? Now we’re not going to lecture you about true hunger and fake hunger right now. Isn’t it best if you could find that out yourself? What’s the best way to do it? By pushing your body’s reset button through 16 hours fasting.Unfortunately, eating 3 heavy meals a day with multiple snacking sessions has become the norm today. Why do we end up feeling hungry every 2-4 hours and still feel lethargic and timid after eating if that hunger was genuine?",
-        "sub-heading1-imgSrc2":"https://blog.satvicmovement.org/wp-content/uploads/2022/05/hunger.jpg",
-        
-        "sub-heading3": "3. Fasting Makes Your Brain Work Faster",
-        "section3":"Do you know why so many of us feel like skipping breakfast before a big exam? It’s because we need our energy for heavy duty mental work. Studies have also showed that intermittent fasting produces BDNF (brain-derived neurotrophic factor). This protein greatly enhances the building new pathways in your brain and protecting brain cells from damage. You’ll begin to see clear changes in your memory and learning speed within weeks. You won’t even waste time planning your day from one meal to the next. Your mind will be free to pursue things that really matter to your growth.",
-        "sub-heading1-imgSrc3":"https://blog.satvicmovement.org/wp-content/uploads/2022/05/brain-fast-768x768.jpg",
-        "imgSrc": [{ "imgSrc1": "" }, { "imgSrc2": "" }, { "imgSrc3": "" }]
-      },
-      "meditation": {
-        "heading":"",
-        "heading-imgSrc": ""
+        "sub-heading1-imgSrc2": "https://blog.satvicmovement.org/wp-content/uploads/2022/05/hunger.jpg",
 
-        
+        "sub-heading3": "3. Fasting Makes Your Brain Work Faster",
+        "section3": "Do you know why so many of us feel like skipping breakfast before a big exam? It’s because we need our energy for heavy duty mental work. Studies have also showed that intermittent fasting produces BDNF (brain-derived neurotrophic factor). This protein greatly enhances the building new pathways in your brain and protecting brain cells from damage. You’ll begin to see clear changes in your memory and learning speed within weeks. You won’t even waste time planning your day from one meal to the next. Your mind will be free to pursue things that really matter to your growth.",
+        "sub-heading1-imgSrc3": "https://blog.satvicmovement.org/wp-content/uploads/2022/05/brain-fast-768x768.jpg",
+        "imgSrc": [{ "imgSrc1": "" }, { "imgSrc2": "" }, { "imgSrc3": "" }]
       }
     }
   ]

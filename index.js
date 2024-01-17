@@ -3,6 +3,7 @@ let root = document.getElementById("root");
 import { Banner } from "./Component/Banner.js";
 import { Slider } from "./Component/slider.js";
 import { Navbar } from "./Component/Navbar/navbar.js";
+import { DynamicPage } from "./Component/Dynamic page/dynamicPage.js";
 
 function App() {
   root.appendChild(Navbar());
@@ -11,5 +12,6 @@ function App() {
   root.appendChild(Slider("yoga"));
   root.appendChild(Slider("meditation"));
   root.appendChild(Footer());
+  root.appendChild(DynamicPage('dynamicpages'));
 }
 App();
