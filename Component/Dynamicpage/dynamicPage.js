@@ -1,4 +1,4 @@
-function DynamicPage({}) {
+function DynamicPage({URL}) {
     // Getting the data
   async function getData() {
     let res = await fetch(`http://localhost:3000/${URL}`);
@@ -11,6 +11,9 @@ function DynamicPage({}) {
     pageContainer.classList.add = 'pageContainer';
 
     pageContainer.innerHTML = `
-    <h1></h1>
-    `
-}
+    <h1>${URL} Page</h1>
+    <div>
+    ${pageData}
+    </div>
+`
+}export{DynamicPage}
