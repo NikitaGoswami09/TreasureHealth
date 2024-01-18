@@ -1,6 +1,31 @@
 .bannerContainer {
-  height: 85vh;
-  border: 1px solid green;
-  /* background-color: red; */
+  position: relative;
+  width: 90%;
+  height: 90vh;
   text-align: center;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+.bannerImgContainer {
+  /* border: 1px solid green; */
+  height: 100%;
+  /* margin-top: 5px; */
+}
+.bannerImgContainer img {
+  width: 100%;
+  height: 100%;
+  border-radius: 3px;
+}
+.banner1Text {
+  position: absolute;
+  top: 25%;
+  font-family: "Holtwood One SC", serif;
+  color: #fff;
+  background-color: #000;
+  font-size: 30px;
+  left: 50px;
+}
+.banner1Text h2 {
+  padding: 0 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
 }
